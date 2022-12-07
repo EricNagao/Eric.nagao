@@ -1,9 +1,6 @@
 ### Hi there 👋 Eric's Here!
 
-**EricNagao/EricNagao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<!--**EricNagao/EricNagao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 📈 Activity Graph
 <p align="center">
