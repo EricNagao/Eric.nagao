@@ -5,9 +5,11 @@
 
 Here are some ideas to get you started:
 
-https://github.com/EricNagao#-github-stats
 
-https://github.com/EricNagao#-github-stats
+<br> 📈 Activity Graph
+<p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=EricNagao&theme=github"/>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
